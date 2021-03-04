@@ -13,3 +13,5 @@ npm install
 folder "_data"
 
  
+## Import data
+create new folder with name "uploads"  in the root directory
