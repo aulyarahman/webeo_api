@@ -128,12 +128,14 @@ exports.importDataToMongo = asyncHanlder(async (req, res, next) => {
 
         if (path.extname(file) === '.csv') {
             dataImport = await User.create(toJsonCsv)
+            del(file);
         }
         if (path.extname(file) === '.xlsx') {
-            dataImport = await User.create(dataExcel)      
+            dataImport = await User.create(dataExcel)   
+            del(file);
         }
 
-      await del(file);
+      
 
     res.status(200).json({ success: true, data: dataImport });
 
