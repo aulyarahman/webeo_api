@@ -1,0 +1,15 @@
+USING NODE JS WITH MONGO DB
+
+++
+
+MONGO_URI rename in "config/config.env"
+
+
++++
+
+npm install
+
+
+++
+
+npm run dev

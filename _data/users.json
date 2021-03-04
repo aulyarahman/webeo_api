@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "60405abe729f994180b31cd7"
+  },
+  "noKursi": "20 BA",
+  "role": "Tamu",
+  "statusKehadiran": "Hadir",
+  "name": "Aulia  Rahman",
+  "hasilSwab": "Negatif",
+  "noHandphone": "065659988",
+  "createdAt": {
+    "$date": "2021-03-04T03:57:50.713Z"
+  },
+  "__v": 0
+}]
