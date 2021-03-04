@@ -80,7 +80,7 @@ app.use(errorhandler);
 const PORT = process.env.PORT || 5000;
 
 
-server.listen(PORT, console.log(`server running ${process.env.NODE_ENV} mode port ${PORT}`.yellow.bold));
+server.listen(PORT, console.log(`server running at port ${PORT}`.yellow.bold));
 
 // Handle undhandle rejections
 process.on('unhandledRejection', (err, promose) => {
