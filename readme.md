@@ -9,4 +9,7 @@ MongoDB URI "config/config.env"
 npm install
 ```
 
+## MongoDb Data
+folder "_data"
+
  
