@@ -1,0 +1,4663 @@
+[{
+  "_id": {
+    "$oid": "6048ae15530ed8001e67845c"
+  },
+  "name": "Muhammad Ikhwan",
+  "role": "Pengurus",
+  "noHandphone": "081289070809",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:33.369Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae15530ed8001e67845d"
+  },
+  "name": "Andi muh abdillah syafaat",
+  "role": "Pengurus",
+  "noHandphone": "08114445635",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:33.482Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae15530ed8001e67845e"
+  },
+  "name": "MUH FADLI SUKARNO",
+  "role": "Pengurus",
+  "noHandphone": "081355899915",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:33.543Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae15530ed8001e67845f"
+  },
+  "name": "Irfandi,SE",
+  "role": "Pengurus",
+  "noHandphone": "085299284664",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:33.601Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae15530ed8001e678460"
+  },
+  "name": "Muh. Eka Prachandra",
+  "role": "Pengurus",
+  "noHandphone": "081355644488",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:33.672Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae15530ed8001e678461"
+  },
+  "name": "M Fadly Agus",
+  "role": "Pengurus",
+  "noHandphone": "082191115454",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:33.733Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae15530ed8001e678462"
+  },
+  "name": "Muhammad Kahfi Jusuf",
+  "role": "Pengurus",
+  "noHandphone": "082191611780",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:33.795Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae15530ed8001e678463"
+  },
+  "name": "Masdir",
+  "role": "Pengurus",
+  "noHandphone": "081998098008",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:33.855Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae15530ed8001e678464"
+  },
+  "name": "Randhy Maulana KS Mamma",
+  "role": "Pengurus",
+  "noHandphone": "08124128109",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:33.918Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae15530ed8001e678465"
+  },
+  "name": "Rachmat Setiawan",
+  "role": "Pengurus",
+  "noHandphone": "085255533548",
+  "noKursi": "1",
+  "stat,usKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:33.982Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e678466"
+  },
+  "name": "M. Andry Azis",
+  "role": "Pengurus",
+  "noHandphone": "081238228516",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.046Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e678467"
+  },
+  "name": "Rohandi",
+  "role": "Pengurus",
+  "noHandphone": "085343626888",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.104Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e678468"
+  },
+  "name": "Nur Muhammad Hayat",
+  "role": "Pengurus",
+  "noHandphone": "081290880084",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.163Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e678469"
+  },
+  "name": "Muhammad Dody Triharyadi Dammar",
+  "role": "Pengurus",
+  "noHandphone": "085256058818",
+  "noKursi": "1",
+  "statusKehadiran": "Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.225Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e67846a"
+  },
+  "name": "Andi Try As Djoeddawi",
+  "role": "Pengurus",
+  "noHandphone": "085341265333",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.293Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e67846b"
+  },
+  "name": "ABD RIVAI",
+  "role": "Pengurus",
+  "noHandphone": "081343655565",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.354Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e67846c"
+  },
+  "name": "Abdul Malik Zain",
+  "role": "Pengurus",
+  "noHandphone": "0852552111110",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.425Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e67846d"
+  },
+  "name": "Adri Nugraha Pratama,S.Pd",
+  "role": "Pengurus",
+  "noHandphone": "85339260870",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.489Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e67846e"
+  },
+  "name": "AFFANDI RISQAN ANSHAR",
+  "role": "Pengurus",
+  "noHandphone": "0811449400",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.557Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e67846f"
+  },
+  "name": "Abdul Jabbar",
+  "role": "Pengurus",
+  "noHandphone": "081293066653",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.622Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e678470"
+  },
+  "name": "Mustaqim Zulkifli",
+  "role": "Pengurus",
+  "noHandphone": "08114169868",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.685Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e678471"
+  },
+  "name": "MOH. ABUDZAR HUJJATUL ISLAM",
+  "role": "Pengurus",
+  "noHandphone": "08114455212",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.746Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e678472"
+  },
+  "name": "Adi pahlevi",
+  "role": "Pengurus",
+  "noHandphone": "085255935454",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.806Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e678473"
+  },
+  "name": "SISWANDI",
+  "role": "Pengurus",
+  "noHandphone": "085399878587",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.863Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e678474"
+  },
+  "name": "Muh. Nawir Sita",
+  "role": "Pengurus",
+  "noHandphone": "08124288807",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.923Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae16530ed8001e678475"
+  },
+  "name": "Aiman Fakhirah",
+  "role": "Pengurus",
+  "noHandphone": "08992443646",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:34.985Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e678476"
+  },
+  "name": "Andi Moch shazky mkt se",
+  "role": "Pengurus",
+  "noHandphone": "081354877748",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.043Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e678477"
+  },
+  "name": "MUHAMMAD FADHIL FAUZAN",
+  "role": "Pengurus",
+  "noHandphone": "082192993639",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.107Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e678478"
+  },
+  "name": "Erwin wijaya S.Pd, M.Si",
+  "role": "Pengurus",
+  "noHandphone": "085227221991",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.166Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e678479"
+  },
+  "name": "MUHAMMAD FERDHY ASDANA",
+  "role": "Pengurus",
+  "noHandphone": "085399887722",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.228Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e67847a"
+  },
+  "name": "Deltha immanuel palungkun",
+  "role": "Pengurus",
+  "noHandphone": "081240431224",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.286Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e67847b"
+  },
+  "name": "Muhammad Aris A",
+  "role": "Pengurus",
+  "noHandphone": "082187474777",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.344Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e67847c"
+  },
+  "name": "Faharuddin S. Bintang",
+  "role": "Pengurus",
+  "noHandphone": "08114627387",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.399Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e67847d"
+  },
+  "name": "Hendra Arifin",
+  "role": "Pengurus",
+  "noHandphone": "082193145008",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.461Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e67847e"
+  },
+  "name": "Andi Fadhil Abdi",
+  "role": "Pengurus",
+  "noHandphone": "081343650797",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.519Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e67847f"
+  },
+  "name": "Haerul Anwar",
+  "role": "Pengurus",
+  "noHandphone": "082344473189",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.576Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e678480"
+  },
+  "name": "Andi Farid Parenrengi, SE",
+  "role": "Pengurus",
+  "noHandphone": "08114618788",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.637Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e678481"
+  },
+  "name": "ANDI FADLI PARENRENGI. SH",
+  "role": "Pengurus",
+  "noHandphone": "082385555711",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.696Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e678482"
+  },
+  "name": "H muh arfah yusuf",
+  "role": "Pengurus",
+  "noHandphone": "08114582525",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.755Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e678483"
+  },
+  "name": "Andi adireshaq ompo",
+  "role": "Pengurus",
+  "noHandphone": "082157842477",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.815Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e678484"
+  },
+  "name": "Irfan Darmawan Nm, SH",
+  "role": "Pengurus",
+  "noHandphone": "085299999942",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.879Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e678485"
+  },
+  "name": "Ismail Marsuki",
+  "role": "Pengurus",
+  "noHandphone": "085242678790",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.939Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae17530ed8001e678486"
+  },
+  "name": "Ahmad Sofian Alala.SE",
+  "role": "Pengurus",
+  "noHandphone": "081243373223",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:35.998Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e678487"
+  },
+  "name": "Tri Sulkarnain Ahmad",
+  "role": "Pengurus",
+  "noHandphone": "08114181145",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.064Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e678488"
+  },
+  "name": "Syamsir",
+  "role": "Pengurus",
+  "noHandphone": "081354983369",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.126Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e678489"
+  },
+  "name": "Sumardi Mahaseng",
+  "role": "Pengurus",
+  "noHandphone": "081265366336",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.187Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e67848a"
+  },
+  "name": "Jusman Sabir, SH",
+  "role": "Pengurus",
+  "noHandphone": "08114450993",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.244Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e67848b"
+  },
+  "name": "SUANDI, S.Kom",
+  "role": "Pengurus",
+  "noHandphone": "085387180887",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.302Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e67848c"
+  },
+  "name": "IHSAN",
+  "role": "Pengurus",
+  "noHandphone": "081211111072",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.362Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e67848d"
+  },
+  "name": "ANDI FITRA ARDHAN FATLI",
+  "role": "Pengurus",
+  "noHandphone": "085756067408",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.423Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e67848e"
+  },
+  "name": "Andi Jaya Adiputra, S.H, M.H.",
+  "role": "Pengurus",
+  "noHandphone": "0811466771",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.480Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e67848f"
+  },
+  "name": "Andi Mentari Ulfayani",
+  "role": "Pengurus",
+  "noHandphone": "08114486555",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.541Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e678490"
+  },
+  "name": "A. Chaidir Abu Bakar",
+  "role": "Pengurus",
+  "noHandphone": "085399565230",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.609Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e678491"
+  },
+  "name": "Andi M. Yusuf Jalil",
+  "role": "Pengurus",
+  "noHandphone": "082384866710",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.667Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e678492"
+  },
+  "name": "asdar rasyid",
+  "role": "Pengurus",
+  "noHandphone": "081243743549",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.721Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e678493"
+  },
+  "name": "Andi Muh. Farid Tarpi",
+  "role": "Pengurus",
+  "noHandphone": "082188905334",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.781Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e678494"
+  },
+  "name": "Arya Devendra Fatzgani",
+  "role": "Pengurus",
+  "noHandphone": "087840596858",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.836Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e678495"
+  },
+  "name": "Athifah azhary",
+  "role": "Pengurus",
+  "noHandphone": "08114489112",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.892Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae18530ed8001e678496"
+  },
+  "name": "Ir.Imran Yusuf",
+  "role": "Pengurus",
+  "noHandphone": "081342646426",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:36.947Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e678497"
+  },
+  "name": "Fadli M Dg. Leo, SH., S.I.Pem",
+  "role": "Pengurus",
+  "noHandphone": "085323459090",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.010Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e678498"
+  },
+  "name": "Annisa tyas palupi",
+  "role": "Pengurus",
+  "noHandphone": "081212828898",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.071Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e678499"
+  },
+  "name": "Arialdy Kamal",
+  "role": "Pengurus",
+  "noHandphone": "081355623792",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.131Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e67849a"
+  },
+  "name": "ROBBI UKKAS",
+  "role": "Pengurus",
+  "noHandphone": "081717131384",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.193Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e67849b"
+  },
+  "name": "Rokan Fathi Alim",
+  "role": "Pengurus",
+  "noHandphone": "08165407151",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.254Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e67849c"
+  },
+  "name": "Akbar Nugraha",
+  "role": "Pengurus",
+  "noHandphone": "08170178179",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.312Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e67849d"
+  },
+  "name": "Radhinal Muchtar",
+  "role": "Pengurus",
+  "noHandphone": "085242518468",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.373Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e67849e"
+  },
+  "name": "YARDI HUSAINI",
+  "role": "Pengurus",
+  "noHandphone": "08114488099",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e67849f"
+  },
+  "name": "Aktur Ryank Pratama",
+  "role": "Pengurus",
+  "noHandphone": "082347908672",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.484Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e6784a0"
+  },
+  "name": "Andi Ikram Febriansyah",
+  "role": "Pengurus",
+  "noHandphone": "085256380044",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.542Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e6784a1"
+  },
+  "name": "Irfan",
+  "role": "Pengurus",
+  "noHandphone": "082341333312",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.601Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e6784a2"
+  },
+  "name": "Hj.nurjanna,SH",
+  "role": "Pengurus",
+  "noHandphone": "085399991517",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.660Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e6784a3"
+  },
+  "name": "ELLY OSCHAR",
+  "role": "Pengurus",
+  "noHandphone": "085298547541",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.723Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e6784a4"
+  },
+  "name": "Akbar, S. P., M. SI.",
+  "role": "Pengurus",
+  "noHandphone": "085237698413",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.787Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e6784a5"
+  },
+  "name": "Ardi",
+  "role": "Pengurus",
+  "noHandphone": "082223242589",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.843Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e6784a6"
+  },
+  "name": "Rifyal Azhari",
+  "role": "Pengurus",
+  "noHandphone": "08114203591",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.898Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae19530ed8001e6784a7"
+  },
+  "name": "RAKHMAT BAITULLAH BAHAR",
+  "role": "Pengurus",
+  "noHandphone": "085333777891",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:37.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784a8"
+  },
+  "name": "Suma Adhiatmawijaya, SE",
+  "role": "Pengurus",
+  "noHandphone": "081210212007",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.014Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784a9"
+  },
+  "name": "Firman Harimurti",
+  "role": "Pengurus",
+  "noHandphone": "085256636804",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.070Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784aa"
+  },
+  "name": "James chandra wangka",
+  "role": "Pengurus",
+  "noHandphone": "081342981177",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.127Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784ab"
+  },
+  "name": "Syafier Bobbe Aryandi",
+  "role": "Pengurus",
+  "noHandphone": "08124237353",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.185Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784ac"
+  },
+  "name": "Saiful Islam",
+  "role": "Pengurus",
+  "noHandphone": "08114113003",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.247Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784ad"
+  },
+  "name": "Abdul Rahim, ST",
+  "role": "Pengurus",
+  "noHandphone": "0811412148",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.305Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784ae"
+  },
+  "name": "Muh syakur saputra",
+  "role": "Pengurus",
+  "noHandphone": "085243602030",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.411Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784af"
+  },
+  "name": "Ince muh amin",
+  "role": "Pengurus",
+  "noHandphone": "082190599710",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.472Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784b0"
+  },
+  "name": "H Ridwan Anis",
+  "role": "Pengurus",
+  "noHandphone": "082360055555",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.533Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784b1"
+  },
+  "name": "Junaedi Hasyim, S.H",
+  "role": "Pengurus",
+  "noHandphone": "081355848082",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784b2"
+  },
+  "name": "Muhammad.Ilyas CM,ST",
+  "role": "Pengurus",
+  "noHandphone": "085314605555",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.654Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784b3"
+  },
+  "name": "MUH IQRAM AL QADRI",
+  "role": "Pengurus",
+  "noHandphone": "08114441112",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.715Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784b4"
+  },
+  "name": "Andris Agus Saputra SH",
+  "role": "Pengurus",
+  "noHandphone": "081904207309",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.778Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784b5"
+  },
+  "name": "Dr. Syamsul Bahri, S.Farm., M. Kes.",
+  "role": "Pengurus",
+  "noHandphone": "081342153753",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.837Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784b6"
+  },
+  "name": "Sultan Hasanuddin",
+  "role": "Pengurus",
+  "noHandphone": "085242275029",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.895Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1a530ed8001e6784b7"
+  },
+  "name": "Muh Mehdi Insana Kamil, S.E., M.M",
+  "role": "Pengurus",
+  "noHandphone": "081311171201",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:38.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784b8"
+  },
+  "name": "Ika prawisna muliawan, SKM",
+  "role": "Pengurus",
+  "noHandphone": "082345496006",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.016Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784b9"
+  },
+  "name": "Amatul firdausyi mirdal",
+  "role": "Pengurus",
+  "noHandphone": "08111002109",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.078Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784ba"
+  },
+  "name": "Andi Adrian Adiputra Iwan",
+  "role": "Pengurus",
+  "noHandphone": "0811440676",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.135Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784bb"
+  },
+  "name": "Syahrul Basri",
+  "role": "Pengurus",
+  "noHandphone": "085242659057",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.196Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784bc"
+  },
+  "name": "Rissi Andi Marzuki",
+  "role": "Pengurus",
+  "noHandphone": "082189001818",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.258Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784bd"
+  },
+  "name": "Ismail mandada",
+  "role": "Pengurus",
+  "noHandphone": "085311116666",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.317Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784be"
+  },
+  "name": "Wahyuddin kube",
+  "role": "Pengurus",
+  "noHandphone": "085399416766",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.374Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784bf"
+  },
+  "name": "Arif WANGSA",
+  "role": "Pengurus",
+  "noHandphone": "085145775990",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.437Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784c0"
+  },
+  "name": "Aminuddin A",
+  "role": "Pengurus",
+  "noHandphone": "081291659609",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.492Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784c1"
+  },
+  "name": "Andi Muh Wahyudi Suyuti",
+  "role": "Pengurus",
+  "noHandphone": "081274716340",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.548Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784c2"
+  },
+  "name": "dr. H. Asriadi Ali,Sp.N",
+  "role": "Pengurus",
+  "noHandphone": "082188561700",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.607Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784c3"
+  },
+  "name": "Indar Wijaya",
+  "role": "Pengurus",
+  "noHandphone": "085242052100",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.665Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784c4"
+  },
+  "name": "Muhammad Archam, ST",
+  "role": "Pengurus",
+  "noHandphone": "085299605697",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.722Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784c5"
+  },
+  "name": "MOHAMMAD FAJRIN FAHREZI",
+  "role": "Pengurus",
+  "noHandphone": "081342106947",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.786Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784c6"
+  },
+  "name": "SUWARDI",
+  "role": "Pengurus",
+  "noHandphone": "085214912220",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.843Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784c7"
+  },
+  "name": "Muhammad Paisrul Bandu",
+  "role": "Pengurus",
+  "noHandphone": "085255239299",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.903Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1b530ed8001e6784c8"
+  },
+  "name": "AKBAR ARYADI, S.T.",
+  "role": "Pengurus",
+  "noHandphone": "085255327887",
+  "noKursi": "1",
+  "statusKehadiran": "Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:39.962Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784c9"
+  },
+  "name": "Syahrul Ramdani",
+  "role": "Pengurus",
+  "noHandphone": "085256432950",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.029Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784ca"
+  },
+  "name": "Ahmad Reza Syaiful",
+  "role": "Pengurus",
+  "noHandphone": "081342626654",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.102Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784cb"
+  },
+  "name": "Rudianto",
+  "role": "Pengurus",
+  "noHandphone": "082396574693",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.168Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784cc"
+  },
+  "name": "Husain Muslimin",
+  "role": "Pengurus",
+  "noHandphone": "0811444044",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.235Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784cd"
+  },
+  "name": "Ade Herawan",
+  "role": "Pengurus",
+  "noHandphone": "085255828394",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.297Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784ce"
+  },
+  "name": "Andi Muhammad Surya Nugraha",
+  "role": "Pengurus",
+  "noHandphone": "082217328511",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.361Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784cf"
+  },
+  "name": "Andi Ravida rahma syafruddin",
+  "role": "Pengurus",
+  "noHandphone": "088247746701",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784d0"
+  },
+  "name": "AHMAD SUSANTO",
+  "role": "Pengurus",
+  "noHandphone": "081342595960",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.499Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784d1"
+  },
+  "name": "Ramli Kahar",
+  "role": "Pengurus",
+  "noHandphone": "085319169796",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.567Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784d2"
+  },
+  "name": "AHMAD FIHRUN, SE",
+  "role": "Pengurus",
+  "noHandphone": "085255206601",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.634Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784d3"
+  },
+  "name": "IBNU KUDDAMAH",
+  "role": "Pengurus",
+  "noHandphone": "08114199929",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.693Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784d4"
+  },
+  "name": "H Muh Arsyanuddin",
+  "role": "Pengurus",
+  "noHandphone": "085333334445",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.754Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784d5"
+  },
+  "name": "Riski Feriansyah",
+  "role": "Pengurus",
+  "noHandphone": "08114451986",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.819Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784d6"
+  },
+  "name": "Firmansyah Muchtar",
+  "role": "Pengurus",
+  "noHandphone": "08114194899",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.877Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784d7"
+  },
+  "name": "Marzuki azis",
+  "role": "Pengurus",
+  "noHandphone": "08114610107",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.933Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1c530ed8001e6784d8"
+  },
+  "name": "Muh Faizal R",
+  "role": "Pengurus",
+  "noHandphone": "085255777772",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:40.991Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae1d530ed8001e6784d9"
+  },
+  "name": "Ansar",
+  "role": "Pengurus",
+  "noHandphone": "082393391992",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:31:41.051Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae40530ed8001e6784dc"
+  },
+  "name": "Eko Cahya",
+  "role": "Tamu",
+  "noHandphone": "085343732225",
+  "noKursi": "4B",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:16.975Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784dd"
+  },
+  "name": "ahyar Muawwal (Bukan Walikota Makassar)",
+  "role": "Pengurus",
+  "noHandphone": "085656284641",
+  "noKursi": "4B",
+  "statusKehadiran": "Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.038Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784de"
+  },
+  "name": "Renaldi Pranata",
+  "role": "Pengurus",
+  "noHandphone": "082393392804",
+  "noKursi": "1",
+  "statusKehadiran": "Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.102Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784df"
+  },
+  "name": "Irjen Pol Merdisyam ( KAPOLDA )",
+  "role": "Tamu",
+  "noHandphone": "001",
+  "noKursi": "1",
+  "statusKehadiran": "Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.160Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784e0"
+  },
+  "name": "Raden Febrytriyanto. ( KAJATI SULSEL )",
+  "role": "Tamu",
+  "noHandphone": "002",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.224Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784e1"
+  },
+  "name": "Andi Ina Kartika Sari, SH , M.Si  ( KETUA DPRD SULSEL )",
+  "role": "Tamu",
+  "noHandphone": "003",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.287Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784e2"
+  },
+  "name": "Mayor jendral TNI Andi Sumangerukka, S.E, M.M ( PANGDAM XIV HASANUDDIN )",
+  "role": "Tamu",
+  "noHandphone": "004",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.345Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784e3"
+  },
+  "name": "Ir.H. Mohammad Ramdhan Pomanto ( WALIKOTA MAKASSAR )",
+  "role": "Tamu",
+  "noHandphone": "005",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.405Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784e4"
+  },
+  "name": "Adnan Purichta Ichsan, SH, MH ( BUPATI GOWA )",
+  "role": "Tamu",
+  "noHandphone": "006",
+  "noKursi": "1",
+  "statusKehadiran": "Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.462Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784e5"
+  },
+  "name": "H. Syamsari Kitta, S.PT, MM ( BUPATI TAKALAR )",
+  "role": "Tamu",
+  "noHandphone": "007",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.525Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784e6"
+  },
+  "name": "Drs. H. Iksan Iskandar, M.Si ( BUPATI JENEPONTO )",
+  "role": "Tamu",
+  "noHandphone": "008",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.589Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784e7"
+  },
+  "name": "DR. H. Ilhamsyah Azikin, M.Si ( BUPATI BANTAENG )",
+  "role": "Tamu",
+  "noHandphone": "009",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.650Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784e8"
+  },
+  "name": "H. A Muhtar Ali Yusuf ( BUPATI BULUKUMBA )",
+  "role": "Tamu",
+  "noHandphone": "010",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.726Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784e9"
+  },
+  "name": "H. Muh Basli Ali ( BUPATI SELAYAR )",
+  "role": "Tamu",
+  "noHandphone": "011",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.785Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784ea"
+  },
+  "name": "Andi Seto Gadhista Asapa, S.H, L.L.M ( BUPATI SINJAI )",
+  "role": "Tamu",
+  "noHandphone": "012",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.847Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784eb"
+  },
+  "name": "DR. H. Andi Fahsar M. Padjalangi, M.Si ( BUPATI BONE )",
+  "role": "Tamu",
+  "noHandphone": "013",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.911Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae41530ed8001e6784ec"
+  },
+  "name": "H.A. Kaswadi Razak, SE  ( BUPATI SOPPENG )",
+  "role": "Tamu",
+  "noHandphone": "014",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:17.974Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784ed"
+  },
+  "name": "DR.H. Amran Mahmud S.Sos, M.Si ( BUPATI WAJO )",
+  "role": "Tamu",
+  "noHandphone": "015",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.032Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784ee"
+  },
+  "name": "H. Basmi Mattayang ( BUPATI LUWU )",
+  "role": "Tamu",
+  "noHandphone": "016",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.094Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784ef"
+  },
+  "name": "Hj.Indah Putri Indriani S.Ip, M.Si ( BUPATI LUWU UTARA )",
+  "role": "Tamu",
+  "noHandphone": "017",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.164Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784f0"
+  },
+  "name": "Irwan Bachri Syam ( BUPATI LUWU TIMUR )",
+  "role": "Tamu",
+  "noHandphone": "018",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.231Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784f1"
+  },
+  "name": "Drs H.M Judas Amir, M.H ( WALIKOTA PALOPO )",
+  "role": "Tamu",
+  "noHandphone": "019",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.289Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784f2"
+  },
+  "name": "Yohani Bassang ( BUPATI TORAJA UTARA )",
+  "role": "Tamu",
+  "noHandphone": "020",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.347Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784f3"
+  },
+  "name": "Theofilus Allorerung ( BUPATI TORAJA )",
+  "role": "Tamu",
+  "noHandphone": "021",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.407Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784f4"
+  },
+  "name": "Drs H.Muslimin Bando M.Pd  ( BUPATI ENREKANG )",
+  "role": "Tamu",
+  "noHandphone": "022",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.469Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784f5"
+  },
+  "name": "H.Andi Irwan Hamid, S.Sos ( BUPATI PINRANG )",
+  "role": "Tamu",
+  "noHandphone": "023",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.527Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784f6"
+  },
+  "name": "H.M.Taufan Pawe, S.H, MH ( WALIKOTA PARE PARE )",
+  "role": "Tamu",
+  "noHandphone": "024",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.593Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784f7"
+  },
+  "name": "Ir.H.Dollah Mando  ( BUPATI SIDRAP )",
+  "role": "Tamu",
+  "noHandphone": "025",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.652Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784f8"
+  },
+  "name": "Ir.H.Suardi Saleh  ( BUPATI BARRU )",
+  "role": "Tamu",
+  "noHandphone": "026",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.707Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784f9"
+  },
+  "name": "H.M.Yusran Lalogau, S.PT, M.Si ( BUPATI PANGKEP )",
+  "role": "Tamu",
+  "noHandphone": "027",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.764Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784fa"
+  },
+  "name": "AS.Chaidir Syam  ( BUPATI MAROS )",
+  "role": "Tamu",
+  "noHandphone": "028",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.831Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784fb"
+  },
+  "name": "H.Andi Iwan Darmawan Aras, S.E.,M.Si  ( KETUA KADIN SULSEL )",
+  "role": "Tamu",
+  "noHandphone": "029",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.897Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae42530ed8001e6784fc"
+  },
+  "name": "M.Sadiq  ( KETUA REI SULSEL )",
+  "role": "Tamu",
+  "noHandphone": "030",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:18.961Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e6784fd"
+  },
+  "name": "La Tunreng  ( KETUA APINDO SULSEL )",
+  "role": "Tamu",
+  "noHandphone": "031",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.026Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e6784fe"
+  },
+  "name": "Anggiat Sinaga  ( KETUA PHRI SULSEL )",
+  "role": "Tamu",
+  "noHandphone": "032",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.093Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e6784ff"
+  },
+  "name": "A. Troy Martino  ( KETUA GAPEKSINDO )",
+  "role": "Tamu",
+  "noHandphone": "033",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.155Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e678500"
+  },
+  "name": "KETUA APEKSINDO",
+  "role": "Tamu",
+  "noHandphone": "034",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.212Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e678501"
+  },
+  "name": "Arianto Burhan Makka  ( KETUA AKAINDO )",
+  "role": "Tamu",
+  "noHandphone": "035",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.274Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e678502"
+  },
+  "name": "Haerumi Hamzah Tuppu  ( KETUA ARDIN SULSEL )",
+  "role": "Tamu",
+  "noHandphone": "036",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e678503"
+  },
+  "name": "Ir. H. AKSA MAHMUD",
+  "role": "Tamu",
+  "noHandphone": "037",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.396Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e678504"
+  },
+  "name": "HALIM KALLA",
+  "role": "Tamu",
+  "noHandphone": "038",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.455Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e678505"
+  },
+  "name": "DINO DJABIR",
+  "role": "Tamu",
+  "noHandphone": "039",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.515Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e678506"
+  },
+  "name": "ANDRY ARIEF BULU",
+  "role": "Tamu",
+  "noHandphone": "040",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.580Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e678507"
+  },
+  "name": "YUDI ARSONO",
+  "role": "Tamu",
+  "noHandphone": "041",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.639Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e678508"
+  },
+  "name": "AMIRULLAH ABBAS",
+  "role": "Tamu",
+  "noHandphone": "042",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.696Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e678509"
+  },
+  "name": "RUSDIN ABDULLAH",
+  "role": "Tamu",
+  "noHandphone": "043",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.753Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e67850a"
+  },
+  "name": "HERMAN HEIZER",
+  "role": "Tamu",
+  "noHandphone": "044",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.813Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e67850b"
+  },
+  "name": "HOIST Z. BACHTIAR",
+  "role": "Tamu",
+  "noHandphone": "045",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.874Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae43530ed8001e67850c"
+  },
+  "name": "RAHMAN HT",
+  "role": "Tamu",
+  "noHandphone": "046",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:19.938Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e67850d"
+  },
+  "name": "ANDI TROY MARTINO",
+  "role": "Tamu",
+  "noHandphone": "047",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.006Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e67850e"
+  },
+  "name": "RINGGO BOY",
+  "role": "Tamu",
+  "noHandphone": "048",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.070Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e67850f"
+  },
+  "name": "AMIN KARAKA",
+  "role": "Tamu",
+  "noHandphone": "049",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.127Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e678510"
+  },
+  "name": "ANDI RUKMAN KARUMPA",
+  "role": "Tamu",
+  "noHandphone": "050",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.190Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e678511"
+  },
+  "name": "ARIANTO BURHAN MAKKA",
+  "role": "Tamu",
+  "noHandphone": "051",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.249Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e678512"
+  },
+  "name": "ANDI NURHALDIN",
+  "role": "Tamu",
+  "noHandphone": "052",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.308Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e678513"
+  },
+  "name": "ANDI SYAFRIADI ADAM",
+  "role": "Tamu",
+  "noHandphone": "053",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.365Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e678514"
+  },
+  "name": "ANDI ABDULLAH RAHIM",
+  "role": "Tamu",
+  "noHandphone": "054",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.426Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e678515"
+  },
+  "name": "MUHAMMAD ARAS",
+  "role": "Tamu",
+  "noHandphone": "055",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.484Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e678516"
+  },
+  "name": "KENNA MASSADIAH",
+  "role": "Tamu",
+  "noHandphone": "056",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.542Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e678517"
+  },
+  "name": "TAKMA",
+  "role": "Tamu",
+  "noHandphone": "057",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.599Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e678518"
+  },
+  "name": "YOHARDIR",
+  "role": "Tamu",
+  "noHandphone": "058",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.655Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e678519"
+  },
+  "name": "FIRDAUS DEPPU",
+  "role": "Tamu",
+  "noHandphone": "059",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.712Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e67851a"
+  },
+  "name": "AIMAR ",
+  "role": "Tamu",
+  "noHandphone": "060",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.769Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e67851b"
+  },
+  "name": "ANDI POPE PAHLEVI",
+  "role": "Tamu",
+  "noHandphone": "061",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.830Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e67851c"
+  },
+  "name": "KAGERI",
+  "role": "Tamu",
+  "noHandphone": "062",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.885Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e67851d"
+  },
+  "name": "A. RAZAK LOLO",
+  "role": "Tamu",
+  "noHandphone": "063",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.942Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae44530ed8001e67851e"
+  },
+  "name": "ANDI DALA ATIKA",
+  "role": "Tamu",
+  "noHandphone": "064",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:20.996Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e67851f"
+  },
+  "name": "ANDI REIZA MAKKAWARU",
+  "role": "Tamu",
+  "noHandphone": "065",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.055Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e678520"
+  },
+  "name": "AMIR BAKRIADI",
+  "role": "Tamu",
+  "noHandphone": "066",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.113Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e678521"
+  },
+  "name": "SYAWAL ARIEF",
+  "role": "Tamu",
+  "noHandphone": "067",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.172Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e678522"
+  },
+  "name": "H. ILHAM ARHIEF SIRAJUDDIN",
+  "role": "Tamu",
+  "noHandphone": "068",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.229Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e678523"
+  },
+  "name": "H. IDRIS MANGGABARANI",
+  "role": "Tamu",
+  "noHandphone": "069",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.286Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e678524"
+  },
+  "name": "H. SAHAR",
+  "role": "Tamu",
+  "noHandphone": "070",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.343Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e678525"
+  },
+  "name": "BAHDER JOHAN",
+  "role": "Tamu",
+  "noHandphone": "071",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.403Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e678526"
+  },
+  "name": "H. LATINRO LA TUNRUNG",
+  "role": "Tamu",
+  "noHandphone": "072",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.462Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e678527"
+  },
+  "name": "HERAWAN HASAN",
+  "role": "Tamu",
+  "noHandphone": "073",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.523Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e678528"
+  },
+  "name": "ANDI IMRAN MAPPASONDA",
+  "role": "Tamu",
+  "noHandphone": "074",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.582Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e678529"
+  },
+  "name": "IR. SYAMSU RIZAL MI",
+  "role": "Tamu",
+  "noHandphone": "075",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.642Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e67852a"
+  },
+  "name": "ANDI ENYO MAPPANYOMPA",
+  "role": "Tamu",
+  "noHandphone": "076",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.703Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e67852b"
+  },
+  "name": "AZWAR ST",
+  "role": "Tamu",
+  "noHandphone": "077",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.763Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e67852c"
+  },
+  "name": "FIRMAN ZULKARNAIN",
+  "role": "Tamu",
+  "noHandphone": "078",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.825Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e67852d"
+  },
+  "name": "H. RUSDI MASSE",
+  "role": "Tamu",
+  "noHandphone": "079",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.931Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae45530ed8001e67852e"
+  },
+  "name": "ALFIN",
+  "role": "Tamu",
+  "noHandphone": "080",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:21.989Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e67852f"
+  },
+  "name": "AHMAD MABBARANI",
+  "role": "Tamu",
+  "noHandphone": "081",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.044Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e678530"
+  },
+  "name": "ANDI FAHRUL HAMSAL",
+  "role": "Tamu",
+  "noHandphone": "082",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.102Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e678531"
+  },
+  "name": "ANDI TENRIANI",
+  "role": "Tamu",
+  "noHandphone": "083",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.156Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e678532"
+  },
+  "name": "HASAN BASRI",
+  "role": "Tamu",
+  "noHandphone": "084",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.213Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e678533"
+  },
+  "name": "ANDI RAIS",
+  "role": "Tamu",
+  "noHandphone": "085",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.272Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e678534"
+  },
+  "name": "RINA DAMAYANTI",
+  "role": "Tamu",
+  "noHandphone": "086",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.327Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e678535"
+  },
+  "name": "BASIRUDDIN",
+  "role": "Tamu",
+  "noHandphone": "087",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.383Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e678536"
+  },
+  "name": "ERWIN NASIR",
+  "role": "Tamu",
+  "noHandphone": "088",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.440Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e678537"
+  },
+  "name": "HERDA HAFIS",
+  "role": "Tamu",
+  "noHandphone": "089",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.493Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e678538"
+  },
+  "name": "NASRUN RAHIM",
+  "role": "Tamu",
+  "noHandphone": "090",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.552Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e678539"
+  },
+  "name": "AFNA KARSO",
+  "role": "Tamu",
+  "noHandphone": "091",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.607Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e67853a"
+  },
+  "name": "FAISAL SUAIB",
+  "role": "Tamu",
+  "noHandphone": "092",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.662Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e67853b"
+  },
+  "name": "HERMINA DONA",
+  "role": "Tamu",
+  "noHandphone": "093",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.719Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e67853c"
+  },
+  "name": "YUHARDIN",
+  "role": "Tamu",
+  "noHandphone": "094",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.789Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e67853d"
+  },
+  "name": "YASSIR MAHMUD",
+  "role": "Tamu",
+  "noHandphone": "095",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.851Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e67853e"
+  },
+  "name": "ALAMSYAH",
+  "role": "Tamu",
+  "noHandphone": "096",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.910Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae46530ed8001e67853f"
+  },
+  "name": "KAHAR GANI",
+  "role": "Tamu",
+  "noHandphone": "097",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:22.973Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e678540"
+  },
+  "name": "OM SON",
+  "role": "Tamu",
+  "noHandphone": "098",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.028Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e678541"
+  },
+  "name": "KAK BON",
+  "role": "Tamu",
+  "noHandphone": "099",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.087Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e678542"
+  },
+  "name": "ZADLY",
+  "role": "Tamu",
+  "noHandphone": "100",
+  "noKursi": "1",
+  "statusKehadiran": "Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.143Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e678543"
+  },
+  "name": "BARA",
+  "role": "Tamu",
+  "noHandphone": "101",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.202Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e678544"
+  },
+  "name": "TASMIN HAMID",
+  "role": "Tamu",
+  "noHandphone": "102",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.262Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e678545"
+  },
+  "name": "SABAR DATULINGGI",
+  "role": "Tamu",
+  "noHandphone": "103",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.321Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e678546"
+  },
+  "name": "MISTANG HAMID",
+  "role": "Tamu",
+  "noHandphone": "104",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.380Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e678547"
+  },
+  "name": "IRWAN ZULKARNAEN",
+  "role": "Tamu",
+  "noHandphone": "105",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.442Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e678548"
+  },
+  "name": "M.Ikram Riswandi Saharuddin  ( KETUA BPC HIPMI MAKASSAR )",
+  "role": "Tamu",
+  "noHandphone": "106",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.506Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e678549"
+  },
+  "name": "Muh Reynold Umar, S.KED ( KETUA BPC HIPMI GOWA )",
+  "role": "Tamu",
+  "noHandphone": "107",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.566Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e67854a"
+  },
+  "name": "Akhmad Syafar ( KETUA BPC HIPMI TAKALAR )",
+  "role": "Tamu",
+  "noHandphone": "108",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.627Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e67854b"
+  },
+  "name": "Muhammad Amhi ( KETUA BPC HIPMI BANTAENG )",
+  "role": "Tamu",
+  "noHandphone": "109",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.687Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e67854c"
+  },
+  "name": "Patenullah MK ( KETUA BPC HIPMI BULUKUMBA )",
+  "role": "Tamu",
+  "noHandphone": "110",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.757Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e67854d"
+  },
+  "name": "Muh Aqsa Ramdhan AA ( KETUA BPC HIPMI SELAYAR )",
+  "role": "Tamu",
+  "noHandphone": "111",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.817Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e67854e"
+  },
+  "name": "Ardiansyah Haris, S.Sos, MM ( KETUA BPC HIPMI SINJAI )",
+  "role": "Tamu",
+  "noHandphone": "112",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.875Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e67854f"
+  },
+  "name": "H.Bahtiar, SE, MH ( KETUA BPC HIPMI BONE )",
+  "role": "Tamu",
+  "noHandphone": "113",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.931Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae47530ed8001e678550"
+  },
+  "name": "Andi Muh. Farid  ( KETUA BPC HIPMI SOPPENG )",
+  "role": "Tamu",
+  "noHandphone": "114",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:23.994Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e678551"
+  },
+  "name": "Adrianto Tamba  ( KETUA BPC HIPMI PALOPO )",
+  "role": "Tamu",
+  "noHandphone": "115",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.060Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e678552"
+  },
+  "name": "Boy PanjI Adikumiro  ( KETUA BPC HIPMI WAJO )",
+  "role": "Tamu",
+  "noHandphone": "116",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.124Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e678553"
+  },
+  "name": "H. Ikbal Nur Rachman  ( KETUA BPC HIPMI LUWU UTARA )",
+  "role": "Tamu",
+  "noHandphone": "117",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.185Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e678554"
+  },
+  "name": "Haerul Nurdin, SH ( KETUA BPC HIPMI LUWU TIMUR )",
+  "role": "Tamu",
+  "noHandphone": "118",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.254Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e678555"
+  },
+  "name": "Jenniwati Mahmud  ( KETUA BPC HIPMI TORAJA )",
+  "role": "Tamu",
+  "noHandphone": "119",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.310Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e678556"
+  },
+  "name": "Syahrul Jamaluddin  ( KETUA BPC HIPMI TORAJA UTARA )",
+  "role": "Tamu",
+  "noHandphone": "120",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.370Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e678557"
+  },
+  "name": "Sudiarto. ST ( KETUA BPC HIPMI ENREKANG )",
+  "role": "Tamu",
+  "noHandphone": "121",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.426Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e678558"
+  },
+  "name": "Heriyani Yuki  Ruyby ( KETUA BPC HIPMI SIDRAP )",
+  "role": "Tamu",
+  "noHandphone": "122",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.489Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e678559"
+  },
+  "name": "Rahmad Latief Bialangi  ( KETUA BPC HIPMI PINRANG )",
+  "role": "Tamu",
+  "noHandphone": "123",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.547Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e67855a"
+  },
+  "name": "Istana Ridha Ali  ( KETUA BPC HIPMI PARE-PARE )",
+  "role": "Tamu",
+  "noHandphone": "124",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.609Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e67855b"
+  },
+  "name": "Farid Hidayat Alam  ( KETUA BPC HIPMI BARRU )",
+  "role": "Tamu",
+  "noHandphone": "125",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.673Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e67855c"
+  },
+  "name": "Yassier Syam  ( KETUA BPC HIPMI PANGKEP )",
+  "role": "Tamu",
+  "noHandphone": "126",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.728Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e67855d"
+  },
+  "name": "A.Muliadi Adam  ( KETUA BPC HIPMI MAROS )",
+  "role": "Tamu",
+  "noHandphone": "127",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.790Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e67855e"
+  },
+  "name": "KEPALA CAB. BANK MANDIRI SULSEL",
+  "role": "Tamu",
+  "noHandphone": "128",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.846Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e67855f"
+  },
+  "name": "KEPALA CAB. BANK BRI SULSEL",
+  "role": "Tamu",
+  "noHandphone": "129",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.905Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae48530ed8001e678560"
+  },
+  "name": "KEPALA CAB. BANK BNI SULSEL",
+  "role": "Tamu",
+  "noHandphone": "130",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:24.962Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae49530ed8001e678561"
+  },
+  "name": "KEPALA CAB. BANK BTN SULSEL",
+  "role": "Tamu",
+  "noHandphone": "131",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:25.026Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae49530ed8001e678562"
+  },
+  "name": "KEPALA CAB. BANK BPD SULSELBAR",
+  "role": "Tamu",
+  "noHandphone": "132",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:25.087Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae49530ed8001e678563"
+  },
+  "name": "KETUA OJK SULAWESI SELATAN",
+  "role": "Tamu",
+  "noHandphone": "133",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:25.146Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae49530ed8001e678564"
+  },
+  "name": "ANDI IRWAN ARAS",
+  "role": "Tamu",
+  "noHandphone": "134",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:25.204Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae49530ed8001e678565"
+  },
+  "name": "BPC HIPMI",
+  "role": "Tamu",
+  "noHandphone": "135",
+  "noKursi": "1",
+  "statusKehadiran": "Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:25.259Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae49530ed8001e678566"
+  },
+  "name": "BPD HIPMI",
+  "role": "Tamu",
+  "noHandphone": "136",
+  "noKursi": "1",
+  "statusKehadiran": "Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:25.315Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048ae49530ed8001e678567"
+  },
+  "name": "HIPMI PT",
+  "role": "Tamu",
+  "noHandphone": "137",
+  "noKursi": "1",
+  "statusKehadiran": "Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-10T11:32:25.401Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e90530ed8001e678568"
+  },
+  "name": "Andi Sudirman Sulaiman, S.T ( PLT GUBERNUR SULAWESI SELATAN )",
+  "role": "Tamu",
+  "noHandphone": "138",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:20.528Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e90530ed8001e678569"
+  },
+  "name": "Mardani H. Maming ( BPD HIPMI SE INDONESIA )",
+  "role": "Tamu",
+  "noHandphone": "139",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:20.599Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e90530ed8001e67856a"
+  },
+  "name": "Bapak Raymon Arfandi ",
+  "role": "Tamu",
+  "noHandphone": "140",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:20.664Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e90530ed8001e67856b"
+  },
+  "name": "Bapak Dhevi Syukur Bijak",
+  "role": "Tamu",
+  "noHandphone": "141",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:20.731Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e90530ed8001e67856c"
+  },
+  "name": "Mitra Fakhruddin M.b ( ANGGOTA DPR )",
+  "role": "Tamu",
+  "noHandphone": "142",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:20.804Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e90530ed8001e67856d"
+  },
+  "name": "Rudianto Lallo, SH ( ANGGOTA DEWAN FRAKSI NASDEM )",
+  "role": "Tamu",
+  "noHandphone": "143",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:20.874Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e90530ed8001e67856e"
+  },
+  "name": "Mario David Pn.S.Sos,MM. ( ANGGOTA DEWAN FRAKSI NASDEM )",
+  "role": "Tamu",
+  "noHandphone": "144",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:20.945Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e91530ed8001e67856f"
+  },
+  "name": "Ari Ashari Ilham SE. ( ANGGOTA DEWAN FRAKSI NASDEM )",
+  "role": "Tamu",
+  "noHandphone": "145",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:21.042Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e91530ed8001e678570"
+  },
+  "name": "Supratman ( ANGGOTA DEWAN FRAKSI NASDEM )",
+  "role": "Tamu",
+  "noHandphone": "146",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:21.107Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e91530ed8001e678571"
+  },
+  "name": "Irwan Djafar SE. ( ANGGOTA DEWAN FRAKSI NASDEM )",
+  "role": "Tamu",
+  "noHandphone": "147",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:21.169Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e91530ed8001e678572"
+  },
+  "name": "Muh. Yahya ( ANGGOTA DEWAN FRAKSI NASDEM )",
+  "role": "Tamu",
+  "noHandphone": "148",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:21.234Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e91530ed8001e678573"
+  },
+  "name": "Eric Horas, SE. ( ANGGOTA DEWAN FRAKSI GERINDRA )",
+  "role": "Tamu",
+  "noHandphone": "149",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:21.299Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e91530ed8001e678574"
+  },
+  "name": "Kasrudi, SH. ( ANGGOTA DEWAN FRAKSI GERINDRA )",
+  "role": "Tamu",
+  "noHandphone": "150",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:21.367Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e91530ed8001e678575"
+  },
+  "name": "Budi Hastuty, SE. ( ANGGOTA DEWAN FRAKSI GERINDRA )",
+  "role": "Tamu",
+  "noHandphone": "151",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:21.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e91530ed8001e678576"
+  },
+  "name": "Andi Pahlevi SE. ( ANGGOTA DEWAN FRAKSI GERINDRA )",
+  "role": "Tamu",
+  "noHandphone": "152",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:21.490Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e91530ed8001e678577"
+  },
+  "name": "A. Nunung Dasniar, SE. ( ANGGOTA DEWAN FRAKSI GERINDRA )",
+  "role": "Tamu",
+  "noHandphone": "153",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:21.552Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e91530ed8001e678578"
+  },
+  "name": "Bpk. Syamsul Bahri Sirajuddin",
+  "role": "Tamu",
+  "noHandphone": "154",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:21.623Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e91530ed8001e678579"
+  },
+  "name": "Ibu. drg. A. Rachmatika Dewi",
+  "role": "Tamu",
+  "noHandphone": "155",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:21.699Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e91530ed8001e67857a"
+  },
+  "name": "Ibu. Reski Mulfiati Luthfi",
+  "role": "Tamu",
+  "noHandphone": "156",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:21.765Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e91530ed8001e67857b"
+  },
+  "name": "Bpk. H. Syaharuddin Alrif",
+  "role": "Tamu",
+  "noHandphone": "157",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:21.828Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e91530ed8001e67857c"
+  },
+  "name": "Bpk. Andre Prasetyo Tanta",
+  "role": "Tamu",
+  "noHandphone": "158",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:21.901Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60498e91530ed8001e67857d"
+  },
+  "name": "Ibu Fatmawati Rusdi ( WAKIL WALIKOTA MAKASSAR )",
+  "role": "Tamu",
+  "noHandphone": "159",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T03:29:21.969Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60499441530ed8001e67857e"
+  },
+  "noKursi": "1",
+  "role": "Pengurus",
+  "statusKehadiran": "Hadir",
+  "name": "Abdul Rahim, ST",
+  "hasilSwab": "Negatif",
+  "noHandphone": "081343858055",
+  "createdAt": {
+    "$date": "2021-03-11T03:53:37.725Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60499541530ed8001e678581"
+  },
+  "noKursi": "1",
+  "role": "Pengurus",
+  "statusKehadiran": "Tidak Hadir",
+  "name": "Muhammad.Ilyas CM,ST",
+  "hasilSwab": "Negatif",
+  "noHandphone": "08114125876",
+  "createdAt": {
+    "$date": "2021-03-11T03:57:53.926Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604995f4530ed8001e678582"
+  },
+  "noKursi": "1",
+  "role": "Pengurus",
+  "statusKehadiran": "Tidak Hadir",
+  "name": "Haerul Anwar",
+  "hasilSwab": "Negatif",
+  "noHandphone": "081342370981",
+  "createdAt": {
+    "$date": "2021-03-11T04:00:52.226Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60499659530ed8001e678583"
+  },
+  "noKursi": "1",
+  "role": "Pengurus",
+  "statusKehadiran": "Hadir",
+  "name": "Muhammad Dody Triharyadi Dammar",
+  "hasilSwab": "Negatif",
+  "noHandphone": "082190302324",
+  "createdAt": {
+    "$date": "2021-03-11T04:02:33.489Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049b40d530ed8001e678584"
+  },
+  "name": "Ahmad S. Ilham (ASBISINDO)",
+  "role": "Tamu",
+  "noHandphone": "160",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T06:09:17.559Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049b40d530ed8001e678585"
+  },
+  "name": "Rafiqa Rizal (ASBISINDO)",
+  "role": "Tamu",
+  "noHandphone": "161",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T06:09:17.642Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049b40d530ed8001e678586"
+  },
+  "name": "Arny A. Hasbul (ASBISINDO)",
+  "role": "Tamu",
+  "noHandphone": "162",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T06:09:17.722Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049b40d530ed8001e678587"
+  },
+  "name": "Iksan (ASBISINDO)",
+  "role": "Tamu",
+  "noHandphone": "163",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T06:09:17.799Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049b40d530ed8001e678588"
+  },
+  "name": "Malvin (ASBISINDO)",
+  "role": "Tamu",
+  "noHandphone": "164",
+  "noKursi": "1",
+  "statusKehadiran": "Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T06:09:17.880Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785efd"
+  },
+  "name": "Peserta 165",
+  "role": "Tamu",
+  "noHandphone": "165",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785efe"
+  },
+  "name": "Peserta 166",
+  "role": "Tamu",
+  "noHandphone": "166",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.225Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785eff"
+  },
+  "name": "Peserta 167",
+  "role": "Tamu",
+  "noHandphone": "167",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.227Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f00"
+  },
+  "name": "Peserta 168",
+  "role": "Tamu",
+  "noHandphone": "168",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.227Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f01"
+  },
+  "name": "Peserta 169",
+  "role": "Tamu",
+  "noHandphone": "169",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.228Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f02"
+  },
+  "name": "Peserta 170",
+  "role": "Tamu",
+  "noHandphone": "170",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.229Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f03"
+  },
+  "name": "Peserta 171",
+  "role": "Tamu",
+  "noHandphone": "171",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.234Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f04"
+  },
+  "name": "Peserta 172",
+  "role": "Tamu",
+  "noHandphone": "172",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.241Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f05"
+  },
+  "name": "Peserta 173",
+  "role": "Tamu",
+  "noHandphone": "173",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.242Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f06"
+  },
+  "name": "Peserta 174",
+  "role": "Tamu",
+  "noHandphone": "174",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.243Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f07"
+  },
+  "name": "Peserta 175",
+  "role": "Tamu",
+  "noHandphone": "175",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.243Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f08"
+  },
+  "name": "Peserta 176",
+  "role": "Tamu",
+  "noHandphone": "176",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.244Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f09"
+  },
+  "name": "Peserta 177",
+  "role": "Tamu",
+  "noHandphone": "177",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.245Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f0a"
+  },
+  "name": "Peserta 178",
+  "role": "Tamu",
+  "noHandphone": "178",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.245Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f0b"
+  },
+  "name": "Peserta 179",
+  "role": "Tamu",
+  "noHandphone": "179",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.246Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f0c"
+  },
+  "name": "Peserta 180",
+  "role": "Tamu",
+  "noHandphone": "180",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.250Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f0d"
+  },
+  "name": "Peserta 181",
+  "role": "Tamu",
+  "noHandphone": "181",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.253Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f0e"
+  },
+  "name": "Peserta 182",
+  "role": "Tamu",
+  "noHandphone": "182",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.255Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f0f"
+  },
+  "name": "Peserta 183",
+  "role": "Tamu",
+  "noHandphone": "183",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.256Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f10"
+  },
+  "name": "Peserta 184",
+  "role": "Tamu",
+  "noHandphone": "184",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.257Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f11"
+  },
+  "name": "Peserta 185",
+  "role": "Tamu",
+  "noHandphone": "185",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.260Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f12"
+  },
+  "name": "Peserta 186",
+  "role": "Tamu",
+  "noHandphone": "186",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.261Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f13"
+  },
+  "name": "Peserta 187",
+  "role": "Tamu",
+  "noHandphone": "187",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.262Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f14"
+  },
+  "name": "Peserta 188",
+  "role": "Tamu",
+  "noHandphone": "188",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.264Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f15"
+  },
+  "name": "Peserta 189",
+  "role": "Tamu",
+  "noHandphone": "189",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.269Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f16"
+  },
+  "name": "Peserta 190",
+  "role": "Tamu",
+  "noHandphone": "190",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.272Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f17"
+  },
+  "name": "Peserta 191",
+  "role": "Tamu",
+  "noHandphone": "191",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.273Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f18"
+  },
+  "name": "Peserta 192",
+  "role": "Tamu",
+  "noHandphone": "192",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.274Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f19"
+  },
+  "name": "Peserta 193",
+  "role": "Tamu",
+  "noHandphone": "193",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.275Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f1a"
+  },
+  "name": "Peserta 194",
+  "role": "Tamu",
+  "noHandphone": "194",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.276Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f1b"
+  },
+  "name": "Peserta 195",
+  "role": "Tamu",
+  "noHandphone": "195",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.276Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f1c"
+  },
+  "name": "Peserta 196",
+  "role": "Tamu",
+  "noHandphone": "196",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.277Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f1d"
+  },
+  "name": "Peserta 197",
+  "role": "Tamu",
+  "noHandphone": "197",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.277Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f1e"
+  },
+  "name": "Peserta 198",
+  "role": "Tamu",
+  "noHandphone": "198",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.278Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f1f"
+  },
+  "name": "Peserta 199",
+  "role": "Tamu",
+  "noHandphone": "199",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.280Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049efe9739bbc1fec785f20"
+  },
+  "name": "Peserta 200",
+  "role": "Tamu",
+  "noHandphone": "200",
+  "noKursi": "1",
+  "statusKehadiran": "Tidak Hadir",
+  "hasilSwab": "Negatif",
+  "createdAt": {
+    "$date": "2021-03-11T10:24:41.284Z"
+  },
+  "__v": 0
+}]
